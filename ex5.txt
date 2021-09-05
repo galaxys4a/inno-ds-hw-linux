@@ -1,0 +1,6 @@
+total 0
+-rw-rw-r--. 1 ziniln ziniln 0 Sep  5 17:52 ex5.txt
+total 4
+-rwxrw-rwx. 1 ziniln ziniln 59 Sep  5 17:52 ex5.txt
+total 4
+-rwxrwxrwx. 1 ziniln ziniln 119 Sep  5 17:53 ex5.txt

@@ -1,0 +1,8 @@
+  174  touch ex5.txt
+  175  ls -l >> ex5.txt
+  176  chmod uo+rwx ex5.txt
+  177  ls -l >> ex5.txt
+  178  chmod g=u ex5.txt
+  179  ls -l >> ex5.txt
+  180  history | tail -n 7 >> homework_1_5_ziniln.txt.txt
+  

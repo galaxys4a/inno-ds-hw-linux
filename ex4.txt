@@ -1,0 +1,10 @@
+abc
+ex4.txt
+file.txt
+abc
+ex4.txt
+xyz
+copy.txt
+16812653 abc/file.txt
+./abc/file.txt
+./xyz/copy.txt

@@ -1,0 +1,4 @@
+When we call a fork function, a new (a child respect to the current that is called parent) process is created.
+It inherits independent copies of all file descriptors. So both of the processes have access to the files.
+Closing the file descriptor in one process will not close it in the other.
+And which process is working with file at the moment? The kernel schedules all processes, so we can not say exactly which of two.
